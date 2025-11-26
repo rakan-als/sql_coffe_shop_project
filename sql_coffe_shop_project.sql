@@ -42,7 +42,7 @@ delete from coffee_shop_sales
  
  select * from coffee_shop_sales;
  
- -- 1. Total Number of Transactions
+ # 1. Total Number of Transactions
  select count(*) as 'Total Number of Transactions'
  from coffee_shop_sales;
  
